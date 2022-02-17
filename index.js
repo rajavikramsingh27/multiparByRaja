@@ -1,5 +1,5 @@
 
-const portAdress =  process.env.PORT || 3000
+const portAdress =  process.env.PORT || 8080
 
 const express = require("express")
 const app = express();
